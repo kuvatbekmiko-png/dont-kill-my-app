@@ -1,6 +1,6 @@
 ---
 manufacturer:
-    - huawei
+ nova y73   - huawei
 
 ---
 
